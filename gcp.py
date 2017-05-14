@@ -4,7 +4,7 @@ Created on Sun May 14 12:00:53 2017
 
 @author: Naveen
 
-Greatest Common Fator program
+Greatest Common Factor program
 """
 def gcp(m,n):
     fm = []
